@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e3a0513b1a6ce1844a9f56b148273705
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Viga
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 510dfb4f0ec778d4d8fbd9c28531a1ff, type: 3}
+  - {fileID: 12800000, guid: e11452bb9a79fb2449030d00c39f22b3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
